@@ -8,8 +8,9 @@ $ pip install PyYAML
 ```
 
 ### Exercise
+[Hello World example](https://www.freecodecamp.org/news/learning-to-test-with-python-997ace2d8abe/)
 ```
-1 - Hello world string test, based on --> https://www.freecodecamp.org/news/learning-to-test-with-python-997ace2d8abe/
+1 - Hello world string test:
     Create a simple test for the method hello_world() -> str that expects the string "hello world" to be returned
     
     Expected: "hello world"
